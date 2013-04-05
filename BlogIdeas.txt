@@ -2,12 +2,14 @@
 
 ## Fitness blog
 		Taking ideas from different PTs
-		Weekly diary
+		Not a weekly
 		Simple tips with a bit of science
 
 ## Initial post
 		About section really
 		Would go into more detail about the technologies used
+		Scott Hanselman (master of the gif) - every developer should be a blogger 
+		Myself and my mate have a voice that might be good to share
 
 ## Best pubs in Toronto for the craic
 		Easy
@@ -39,7 +41,7 @@
 ## Hooking in Windows Live Writer into your loverly custom blog
 
 ## Music for developing 
-		
+
 ## Working from home 
 		lookup lifehacker articles
 
