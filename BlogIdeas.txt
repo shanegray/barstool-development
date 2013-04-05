@@ -1,0 +1,46 @@
+# Blog Ideas Outlines
+
+## Fitness blog
+		Taking ideas from different PTs
+		Weekly diary
+		Simple tips with a bit of science
+
+## Initial post
+		About section really
+		Would go into more detail about the technologies used
+
+## Best pubs in Toronto for the craic
+		Easy
+
+## The colloquial (BSD) guide to TDD 
+		take quotes from some of the books but make it simple as fuck
+		could be a glossary section
+
+## Things I've noticed (or re-noticed) about moving back to Dublin/Ireland
+
+## Learning resources mentioned at the bar (How to become a programmer)
+		Nettus, TekPub, Pluralsight
+		iTunesU
+		Books
+		Online reading resources
+		Twitter
+
+## So you want to become a programmer (.Net) 
+		pull the finger out and follow this (asp.net)
+
+## Leaving a job 
+		going through the experience of leaving my job in Canada. 
+		What's the best way to handle it and an exit interview.
+
+## How to handle the office idiot 
+		may be too soon after leaving Shaw
+		Add a disclaimer - amalgamation of stories from other developers
+
+## Hooking in Windows Live Writer into your loverly custom blog
+
+## Music for developing 
+		
+## Working from home 
+		lookup lifehacker articles
+
+	
