@@ -45,4 +45,7 @@
 ## Working from home 
 		lookup lifehacker articles
 
+## Simple Git
+		4 commands are all you need for 90% of the work
+
 	

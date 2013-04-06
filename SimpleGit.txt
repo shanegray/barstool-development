@@ -1,0 +1,8 @@
+Simple Git
+
+Bourne - Jason Bourne. You don't need to know what he's thinking all the time
+
+git init
+git status ## It tells you what to do next.... done
+git add . ## It tells you how to remove
+git commit -m "Hello World"
